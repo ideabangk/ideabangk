@@ -16,8 +16,8 @@
 
 <!-- editior -->
 <p><strong>Editior</strong></p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"/>
-<img src="https://img.icons8.com/?size=100&id=h67b5xF2blsK&format=png&color=000000"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=plastic&logo=visualstudiocode &logoColor=white"/>
 
 
 
