@@ -12,9 +12,13 @@
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
+
+
 <!-- editior -->
 <p><strong>Editior</strong></p>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"/>
+
+
 
 
 <!-- Database -->
@@ -23,22 +27,27 @@
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=plastic&logo=Amazon RDS&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
 
+
+
 <!-- OA -->
 <p><strong>OA</strong></p>
 <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=Google Docs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Forms-7248B9?style=flat&logo=Google Forms&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 
+
+
 <!-- Colarbo, communication -->
 <p><strong>Additional</strong></p>
 <img src="https://img.shields.io/badge/canva-00C4CC?style=flat&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-<br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-<br/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+<br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white>
+
 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
