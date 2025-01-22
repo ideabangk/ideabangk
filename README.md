@@ -1,8 +1,8 @@
 # Hojin Bang
-> contact
+> **Contact**
   - instagram: @ideabangk
   - email: mahao7114@gmail.com
-> career
+> **Career**
 - HUFS Global Sport Industry / AI Convergence Software Track (2020.03 ~ )
 - Bepro 11 Junior Analyst For Football Data analysis (2022.08 ~ 2024.04)
 - Seoul City Hall, Data Strategy Department, Data Analysis TF Team part-time job(2024.07 ~ 2024.08)
