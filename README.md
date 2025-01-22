@@ -10,7 +10,7 @@
 <!-- Database -->
 <p><strong>Database</strong></p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS RDS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
