@@ -1,4 +1,6 @@
 # Hojin Bang
+![header](https://capsule-render.vercel.app/api?text=Bang%27s%20GITHUB&color=gradient&type=waving&fontAlign=25&fontAlignY=70&fontSize=50&section=footer&height=200)
+
 > **Contact**
   - instagram: @ideabangk
   - email: mahao7114@gmail.com
