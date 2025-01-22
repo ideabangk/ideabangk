@@ -14,7 +14,7 @@
 
 <!-- editior -->
 <p><strong>Editior</strong></p>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"/>
 
 
 <!-- Database -->
