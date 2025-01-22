@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
-<br/><img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=QGIS&logoColor=white"/>
+<br/><img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=QGIS&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
