@@ -6,17 +6,16 @@
 <!-- Programming / Data Analysis -->
 <p><strong>Programming / Data Analysis&Visualization</strong></p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<br/><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C language&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=Plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/qgis-589632?style=plastic&logo=QGIS&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=Scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-276DC3?style=plastic&logo=R &logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
+<br/><img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=QGIS&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=Scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 <!-- editior -->
 <p><strong>Editior</strong></p>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Jupyter Notebook&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/jupyter-F37626?style=plastic&logo=Jupyter Notebook &logoColor=white"/>
 
 <!-- Database -->
 <p><strong>Database</strong></p>
@@ -26,21 +25,20 @@
 
 <!-- OA -->
 <p><strong>OA</strong></p>
-<img src="https://img.shields.io/badge/googledocs-4285F4?style=plastic&logo=Google Docs&logoColor=white"/>
-<img src="https://img.shields.io/badge/googleforms-7248B9?style=plastic&logo=Google Forms&logoColor=white"/>
-<img src="https://img.shields.io/badge/googlesheets-34A853?style=plastic&logo=Google Sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=Google Docs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Forms-7248B9?style=flat&logo=Google Forms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 
 <!-- Colarbo, communication -->
 <p><strong>Additional</strong></p>
-<img src="https://img.shields.io/badge/canva-00C4CC?style=plastic&logo=Canva&logoColor=white"/>
-<br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/canva-00C4CC?style=flat&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<br/><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<br/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white">
-<br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
