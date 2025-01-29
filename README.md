@@ -67,4 +67,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideabangk&layout=compact&bg_color=60,a29696,1949a9&title_color=ffb8b8&text_color=ffb8b8"/>
 </div>
 
+
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
     
